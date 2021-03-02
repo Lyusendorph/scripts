@@ -1,1 +1,3 @@
-apiKey = "$".."ddas231324rfasdfdsd".."$"
+carShop = {
+ key = "fdsfdsfsdfsd"
+}
