@@ -1,3 +1,3 @@
 carShop = {
- key = "fdsfdsfsdfsd",
+ key = "#fdsfdsfsdfsd@",
 }
