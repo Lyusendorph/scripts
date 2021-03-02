@@ -1,1 +1,1 @@
-apiKey = "ddas231324rfasdfdsd"
+apiKey = "$".."ddas231324rfasdfdsd".."$"
